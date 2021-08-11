@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to WILD 6500
 
 You can use the [editor on GitHub](https://github.com/kmanlove/WILD6500/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
